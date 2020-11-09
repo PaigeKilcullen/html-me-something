@@ -1,0 +1,22 @@
+
+p {
+  background-color: grey;
+}
+
+  b {
+    color: purple;
+ }
+
+.header {
+   color: greenyellow
+ }
+
+ #services {
+   color: grey
+ }
+
+ img {
+   padding-top: 30px;
+   padding-right: 10px;
+   padding-left: 10px;
+ }
